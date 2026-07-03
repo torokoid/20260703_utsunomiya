@@ -226,7 +226,7 @@ p.note { display: none; }
 <a href="20260703_031.JPG" target="_blank"><img src="20260703_031.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260703_032.JPG" target="_blank"><img src="20260703_032.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">日中は350以上出ているネット速度が夜になると激落ち</span></h2>
+<h2><span class="yellow">日中は350Mbps以上出ているネット速度が夜になると激落ち</span></h2>
 <a href="20260703_033.JPG" target="_blank"><img src="20260703_033.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">一桁代になると流石に不具合が出ます<br>NTTに連絡してまた来てもらいます</span></h2>
