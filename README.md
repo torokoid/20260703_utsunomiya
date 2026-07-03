@@ -178,7 +178,7 @@ p.note { display: none; }
 <a href="20260703_003.JPG" target="_blank"><img src="20260703_003.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260703_004.JPG" target="_blank"><img src="20260703_004.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">すぐ北のビックカメラ、こじま電気でノートPCの値段をチェックフラッグシップは40万コース</span></h2>
+<h2><span class="yellow">すぐ北のビックカメラ、こじま電気でノートPCの値段をチェック<br>フラッグシップは40万コース</span></h2>
 <a href="20260703_005.JPG" target="_blank"><img src="20260703_005.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">2日は雨上がりの河内図書館、花壇の花がきれいに咲いています</span></h2>
