@@ -156,7 +156,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2026/07/03、NTT光の修理から図書館のお花と、ご近所のお花達まで !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2026/07/03、ドコモ光の修理から図書館のお花と、ご近所のお花達まで !!!</marquee></span></h1>
 
 
 
@@ -168,7 +168,7 @@ p.note { display: none; }
 
 <div class="media-container">
 
-<h2><span class="yellow">2026Jul01、NTT光の通信速度が遅いので修理に来てもらいました<br>自宅内の機器を無償交換で日中の速度は回復</span></h2>
+<h2><span class="yellow">2026Jul01、ドコモ光の通信速度が遅いので修理に来てもらいました<br>自宅内の機器を無償交換で日中の速度は回復</span></h2>
 <a href="20260703_001.JPG" target="_blank"><img src="20260703_001.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">お昼は空いてる時間を狙って外食</span></h2>
@@ -229,7 +229,7 @@ p.note { display: none; }
 <h2><span class="yellow">日中は350Mbps以上出ているネット速度が夜になると激落ち</span></h2>
 <a href="20260703_033.JPG" target="_blank"><img src="20260703_033.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">一桁代になると流石に不具合が出ます<br>NTTに連絡してまた来てもらいます</span></h2>
+<h2><span class="yellow">一桁代になると流石に不具合が出ます<br>ドコモ光に連絡してまた来てもらいます</span></h2>
 <a href="20260703_034.JPG" target="_blank"><img src="20260703_034.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 
@@ -383,7 +383,7 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 -->
 
 <br><br><br>
-<h2><span class="yellow">2026Jul03、NTT光の修理から図書館のお花と、ご近所のお花達まででした<br>Thank you for reading this far.</span></h2>
+<h2><span class="yellow">2026Jul03、ドコモ光の修理から図書館のお花と、ご近所のお花達まででした<br>Thank you for reading this far.</span></h2>
 <!--
 <br><br><br><br><br>
 <h2><span class="yellow">
